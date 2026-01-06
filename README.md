@@ -3,7 +3,7 @@
 Senior Software Engineer / Engineering Manager with **7+ years of experience** building secure, scalable, production-grade systems.  
 Strong background in **banking, fintech, and enterprise applications**, with deep focus on backend engineering, system architecture, and real-world integrations.
 
-Email: badarkhalil19@gmail.com -Contact: +923045433386
+Email: badarkhalil19@gmail.com Contact: +923045433386
 ---
 
 ## 🧑‍💻 About Me
